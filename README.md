@@ -27,6 +27,10 @@ MimiClaw turns a tiny ESP32-S3 board into a personal AI assistant. Plug it into 
 - **Energetic** — USB power, 0.5 W, runs 24/7
 - **Lovable** — One ESP32-S3 board, $5, nothing else
 
+## My Fork Objective
+
+Integrate tools to work with ESP32-S3-TOUCH-AMOLED-1.75 using the CO5300 display driver or LVGL. Will attempt both. This is a hobby project.
+
 ## How It Works
 
 ![](assets/mimiclaw.png)
